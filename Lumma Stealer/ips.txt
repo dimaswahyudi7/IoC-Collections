@@ -1,1 +1,12 @@
-
+82.117.255.127 #10/94 security vendors flagged this IP address as malicious
+195.123.226.91 #12/94 security vendors flagged this IP address as malicious
+94.158.244.69 #12/94 security vendors flagged this IP address as malicious
+185.99.133.246 #12/94 security vendors flagged this IP address as malicious
+144.76.173.247 #13/94 security vendors flagged this IP address as malicious
+195.123.226.167 #2/94 security vendors flagged this IP address as malicious
+195.123.227.138 #9/94 security vendors flagged this IP address as malicious
+82.117.255.80 #9/94 security vendors flagged this IP address as malicious
+77.73.134.68 #12/94 security vendors flagged this IP address as malicious
+217.12.206.230 #12/94 security vendors flagged this IP address as malicious
+82.118.23.50 #7/94 security vendors flagged this IP address as malicious
+45.9.74.78 #6/94 security vendors flagged this IP address as malicious
