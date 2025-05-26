@@ -9,7 +9,7 @@ These indicators are contributed to help defenders, researchers, and the public 
 
 | Name      | Type             | Description                             | IPs IoCs              | Hashes IoCs              | Domain-URL IoCs         | Last Validated |
 |-----------|------------------|-----------------------------------------|------------------------|------------------------|--------------------------|----------------|
-| **Lumma** | Stealer Malware| Credential & crypto wallet stealer | [📄 IPs](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Lumma%20Stealer/ips.txt) | [📄 Hashes](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Lumma%20Stealer/hashes) | [📄 Domain-URL](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Lumma%20Stealer/domain-urls.txt) | May 2025|
+| **Lumma** | Stealer Malware| Credential & crypto wallet stealer | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Lumma%20Stealer/ips.txt) | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Lumma%20Stealer/hashes) | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Lumma%20Stealer/domain-urls.txt) | May 2025|
 
 ---
 
