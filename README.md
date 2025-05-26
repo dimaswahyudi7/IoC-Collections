@@ -7,10 +7,9 @@ These indicators are contributed to help defenders, researchers, and the public 
 
 ## 📘 Master Table of IoCs
 
-| Name      | Type             | Description                             | IPs IoCs              | Hash IoCs              | URLs/Domain IoCs         | Last Validated |
+| Name      | Type             | Description                             | IPs IoCs              | Hashes IoCs              | Domain-URL IoCs         | Last Validated |
 |-----------|------------------|-----------------------------------------|------------------------|------------------------|--------------------------|----------------|
-| **Lumma** | Stealer Malware  | Credential & crypto wallet stealer      | [📄 IPs](./lumma/ips.txt) | [📄 Hashes](./lumma/hashes.txt) | [📄 URLs](./lumma/urls.txt) | May 2025       |
-| **Lockbit** | Ransomware      | Encrypts systems, demands ransom        | [📄 IPs](./lockbit/ips.txt) | [📄 Hashes](./lockbit/hashes.txt) | [📄 URLs](./lockbit/urls.txt) | May 2025       |
+| **Lumma** | Stealer Malware  | Credential & crypto wallet stealer      | [📄 IPs](https://github.com/dimaswahyudi7/IoC-Collections/raw/main/lumma/ips.txt) | [📄 IPs](https://github.com/dimaswahyudi7/IoC-Collections/raw/main/lumma/ips.txt) | [📄 IPs](https://github.com/dimaswahyudi7/IoC-Collections/raw/main/lumma/ips.txt) | May 2025       |
 
 ---
 
