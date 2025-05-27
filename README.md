@@ -11,6 +11,7 @@ These indicators are contributed to help defenders, researchers, and the public 
 |-----------|------------------|-----------------------------------------|------------------------|------------------------|--------------------------|----------------|
 | **Lumma** | Stealer Malware| Credential & crypto wallet stealer | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Lumma%20Stealer/ips.txt) | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Lumma%20Stealer/hashes) | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Lumma%20Stealer/domain-urls.txt) | May 2025|
 | **Bad IP Reputation (Suricata & OSSEC)** | Reputation Feed | Manually validated IPs flagged by Suricata & OSSEC | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Bad%20IP%20Reputation/ips.txt) | – | – | May 2025 |
+| **Qilin** | Ransomware | Qilin operates as a Ransomware-as-a-Service (RaaS) that employs double extortion tactics, whereby harvested data is exfiltrated and threatened of publication on the group's DLS, which is hosted on Tor | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Qilin/ips) | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Qilin/hashes) | [Link](https://github.com/dimaswahyudi7/IoC-Collections/blob/main/Qilin/domain-urls) | May 2025|
 
 ---
 
