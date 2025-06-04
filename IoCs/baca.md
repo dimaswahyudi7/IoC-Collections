@@ -12,8 +12,7 @@ These indicators are contributed to help defenders, researchers, and the public 
 | **Test_1** | Stealer Malware| test | [Link]() | [Link]() | [Link]() | 2025-05-28 | 2025-05-28 | [Link]() |
 | **Test_2** | Reputation Feed | test | [Link]() | [Link]() | [Link]() | 2025-05-28 | 2025-05-28 | [Link]() |
 
-
----
+<!-- # [GENERATED] Detail IOC per Grup akan disisipkan di bawah ini -->
 
 ## 🙌 Purpose
 These IoCs are shared for:
